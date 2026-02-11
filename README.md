@@ -65,5 +65,3 @@ Stack Tecnológico
 Lenguaje: Python 3.9+
 
 Librerías: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
-
-Este proyecto fue creado con fines educativos para demostrar competencias en Risk Analytics.
